@@ -1,4 +1,4 @@
-# Design Document
+# Films database for CS50 SQL
 
 **By LENIN V J NAIR**
 
